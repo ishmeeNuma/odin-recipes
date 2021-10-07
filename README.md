@@ -1,0 +1,2 @@
+This simple website will consist of links to recipes creating dishes or meals I enjoy.  
+This simple website will showcase core HTML skills I've acquired thus far through The Odin Project's Foundations course, such as:  basic HTML structure, linking my webpage to other pages on the internet, and adding images to my pages-- among other things.
